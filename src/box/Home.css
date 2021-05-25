@@ -1,0 +1,724 @@
+@import url('https://fonts.googleapis.com/css2?family=Yesteryear&display=swap');
+@import url('//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sue+Ellen+Francisco&display=swap');
+#body {
+    background-color: rgb(255, 255, 255);
+    min-height: 110vh;
+}
+
+#first {
+    background-color: rgb(255, 255, 255);
+    margin-top: 10ex;
+}
+
+img {
+    max-height: 90%;
+    max-width: 90%;
+    justify-content: right;
+}
+
+#sec {
+    background-color: rgb(255, 255, 255);
+    margin-top: 10ex;
+    padding: 20px;
+}
+
+#data {
+    background-color: rgb(255, 255, 255);
+    margin-top: 20%;
+}
+
+#data h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 90px;
+    font-weight: bolder;
+}
+
+#justab {
+    font-size: 15px;
+    color: rgb(93, 92, 92);
+    font-weight: normal;
+    font-family: 'Mukta', sans-serif;
+}
+
+#hiremebutton {
+    padding-top: 20px;
+}
+
+#butto {
+    background-color: rgb(62, 144, 76);
+    width: 50%;
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+#butto:hover {
+    background-color: #ffec3c;
+    color: #000000;
+}
+
+#data strong {
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+#flatt {
+    max-height: 7%;
+    max-width: 7%;
+    margin: 25px;
+    display: flex;
+    float: left;
+    margin-top: 60px;
+}
+
+#data #infoo {
+    font-size: 15px;
+    position: relative;
+    left: 140px;
+    top: -52px;
+}
+
+#aboutme {
+    min-height: 150vh;
+    min-width: 100vh;
+    background-color: rgb(255, 255, 255);
+}
+
+#mygallery {
+    min-height: 200vh;
+    min-width: 100vh;
+    background-color: rgb(246, 240, 235);
+}
+
+#myprojects {
+    min-height: 200vh;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+#myskills {
+    min-height: 150vh;
+    min-width: 100vh;
+    background-color: rgb(255, 255, 255);
+}
+
+#contactme {
+    min-height: 100vh;
+    width: 100%;
+}
+
+.footer {
+    min-height: 50vh;
+    width: 100%;
+    background-color: rgb(246, 238, 238);
+}
+
+#titleofaboutme {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#underline {
+    width: 8vw;
+    height: 5px;
+    background-color: rgb(80, 176, 255);
+}
+
+#divoftitle {
+    padding-top: 10%;
+}
+
+#limit {
+    padding-top: 10%;
+    justify-content: right;
+}
+
+#myabouttext {
+    font-size: 18px;
+    font-family: 'Sue Ellen Francisco', cursive;
+    margin: 40px;
+}
+
+#footballme {
+    width: 300px;
+    height: 300px;
+    padding-top: 20%;
+}
+
+#servis {
+    background-color: rgb(246, 240, 235);
+    text-align: center;
+}
+
+#servis h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    padding-top: 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+#serviceunderline {
+    width: 8vw;
+    height: 5px;
+    background-color: rgb(255, 217, 0);
+    margin: 0 auto;
+}
+
+#slogen {
+    padding: 15px;
+}
+
+#slogen h4 {
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: normal;
+    font-style: 'Poppins', sans-serif;
+}
+
+#one {
+    background-color: rgb(236, 233, 51);
+    height: 200px;
+    border-radius: 2px;
+}
+
+#one:hover {
+    background: #E55D87;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #5FC3E4, #E55D87);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5FC3E4, #E55D87);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#one h2 {
+    font-style: 'Poppins', sans-serif;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#two {
+    background-color: rgb(61, 184, 92);
+    height: 200px;
+    border-radius: 2px;
+}
+
+#two:hover {
+    background: #E55D87;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #5FC3E4, #E55D87);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5FC3E4, #E55D87);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#two h2 {
+    font-style: 'Poppins', sans-serif;
+    font-weight: bolder;
+    color: white;
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#three {
+    background-color: rgb(78, 160, 197);
+    height: 200px;
+    border-radius: 2px;
+}
+
+#three:hover {
+    background: #E55D87;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #5FC3E4, #E55D87);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5FC3E4, #E55D87);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#three h2 {
+    font-style: 'Poppins', sans-serif;
+    font-weight: bolder;
+    color: white;
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#four {
+    background-color: rgb(255, 83, 83);
+    height: 200px;
+    border-radius: 2px;
+}
+
+#four:hover {
+    background: #E55D87;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #5FC3E4, #E55D87);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5FC3E4, #E55D87);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#four h2 {
+    font-style: 'Poppins', sans-serif;
+    font-weight: bolder;
+    color: white;
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#banner {
+    padding-top: 6%;
+}
+
+.borderbanner {
+    padding: 3%;
+}
+
+#works h1 {
+    font-style: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#slogenforwork h4 {
+    font-weight: normal;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#workunderline {
+    background-color: rgb(61, 184, 92);
+    width: 10vw;
+    height: 5px;
+    margin: 0 auto;
+}
+
+.ecommerce {
+    background-color: #fdfdfd;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.ecommerce:hover {
+    background-color: #f64c4c;
+    color: white;
+}
+
+.ecommerce h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.ecommerce p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+}
+
+.MachineLearning {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 2px;
+}
+
+.MachineLearning:hover {
+    background-color: #f64c4c;
+    color: white;
+}
+
+.MachineLearning h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.MachineLearning p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+}
+
+.psddesign {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 2px;
+}
+
+.psddesign:hover {
+    background-color: #f64c4c;
+    color: white;
+}
+
+.psddesign h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.psddesign p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+}
+
+.DataAnalysis {
+    background-color: rgb(250, 255, 255);
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 2px;
+}
+
+.DataAnalysis:hover {
+    background-color: #f64c4c;
+    color: white;
+}
+
+.DataAnalysis h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.DataAnalysis p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+}
+
+#astro strong {
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+
+#projectsection {
+    padding-top: 70px;
+}
+
+#astro {
+    background-color: rgb(61, 184, 92);
+    margin-top: 10px;
+}
+
+.ecommerceservice {
+    background-color: #fdfdfd;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.ecommerceservice:hover {
+    background-color: #447fff;
+    color: white;
+}
+
+.ecommerceservice h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.ecommerceservice p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+}
+
+.MachineLearningservice {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 2px;
+}
+
+.MachineLearningservice:hover {
+    background-color: #447fff;
+    color: white;
+}
+
+.MachineLearningservice h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.MachineLearningservice p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+}
+
+.psddesignservice {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 2px;
+}
+
+.psddesignservice:hover {
+    background-color: #447fff;
+    color: white;
+}
+
+.psddesignservice h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.psddesignservice p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+}
+
+.DataAnalysisservice {
+    background-color: rgb(250, 255, 255);
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 2px;
+}
+
+.DataAnalysisservice:hover {
+    background-color: #447fff;
+    color: white;
+}
+
+.DataAnalysisservice h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.DataAnalysisservice p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+}
+
+#astroservice strong {
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+
+#projectsectionservice {
+    padding-top: 70px;
+}
+
+#astroservice {
+    background-color: rgb(255, 227, 70);
+    margin-top: 10px;
+}
+
+#astroservice strong {
+    color: black;
+}
+
+#workunderline2 {
+    background-color: rgb(255, 111, 111);
+    width: 10vw;
+    height: 5px;
+    margin: 0 auto;
+}
+
+#workunderline3 {
+    background-color: rgb(255, 235, 54);
+    width: 10vw;
+    height: 5px;
+    margin: 0 auto;
+}
+
+#linko {
+    list-style: none;
+    display: inline;
+    margin: 5px;
+    text-decoration: none;
+}
+
+#inform {
+    background-color: #ffec3c;
+    min-height: 100vh;
+    text-align: center;
+    padding: 5%;
+}
+
+#inform strong {
+    font-weight: bold;
+    font-size: 15px;
+    padding-top: 15px;
+}
+
+#boatfill {
+    text-align: left;
+    font-size: 10px;
+    margin-top: 10%;
+    font-family: 'Poppons', sans-serif;
+    text-align: left;
+}
+
+#socialmedia {
+    height: 25px;
+    width: 25px;
+    margin: 10px;
+    margin-top: 15px;
+}
+
+#contactmedivarea {
+    margin-top: 15%;
+}
+
+#titleo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+}
+
+#inputboxname {
+    width: 100%;
+}
+
+#inputboxname::placeholder {
+    font-size: 10px;
+}
+
+#inputbox {
+    width: 100%;
+}
+
+input[type=text] {
+    font-size: 10px;
+}
+
+#inputbox::placeholder {
+    font-size: 10px;
+}
+
+#textAreaExample1::placeholder {
+    font-size: 10px;
+}
+
+#sendbutton {
+    background-color: #ffec3c;
+    font-size: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#sendbutton:hover {
+    color: #ffec3c;
+    background-color: rgb(0, 0, 0);
+}
+
+#footerfooter {
+    bottom: 0%;
+    width: 100%;
+    height: 10vh;
+    text-align: center;
+    position: static;
+    border: #3a3a3a;
+    padding-bottom: 0%;
+}
+
+#footerfooter p {
+    color: #3a3a3a;
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#conttent {
+    text-align: center;
+    justify-content: center;
+}
+
+#logofoot h1 {
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+}
+
+#hiremetag p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+}
+
+#socialiconss {
+    display: flex;
+    justify-content: center;
+}
+
+#instagramm {
+    height: 30px;
+    width: 30px;
+    margin: 7px;
+}
+
+#instagramm:hover {
+    color: #ff0077;
+}
+
+#linkedinn {
+    height: 30px;
+    width: 30px;
+    margin: 7px;
+}
+
+#linkedinn:hover {
+    color: #1194ff;
+}
+
+#githubb {
+    height: 30px;
+    width: 30px;
+    margin: 7px;
+}
+
+#githubb:hover {
+    color: #000000;
+}
+
+#behancee {
+    height: 30px;
+    width: 30px;
+    margin: 7px;
+}
+
+#behancee:hover {
+    color: #0011ff;
+}
+
+#linko {
+    color: #ffffff;
+    font-size: 10px;
+    font-family: "Poppins", sans-serif;
+    list-style-type: none;
+    display: flex;
+    width: 7%;
+    padding: 5px;
+    text-align: center;
+}

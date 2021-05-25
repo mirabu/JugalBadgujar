@@ -1,0 +1,71 @@
+{
+
+    "Languages": [
+        "Html",
+        "Css",
+        "Js",
+        "Bootstap",
+        "Php",
+        "Java",
+        "Python",
+        "C",
+        "Adobe XD",
+        "Adobe Illustrator",
+        "SQL"
+
+    ]
+
+
+
+}
+
+
+
+
+
+
+return ( <
+    div className = "container" >
+    <
+    Navbar id = "navbarvilla" >
+    <
+    Navbar.Brand id = "logo" > Jugal < /Navbar.Brand> <
+    Navbar.Toggle / >
+    <
+    Navbar.Collapse >
+    <
+    Nav className = "justify-content-end"
+    style = {
+        { width: "100%" } }
+    id = "navbox" >
+    <
+    Link to = "body"
+    id = "navitem"
+    smooth = { true }
+    duration = { 1500 } > Home < /Link> <
+    Link to = "aboutme"
+    id = "navitem"
+    smooth = { true }
+    duration = { 1500 } > About < /Link> <
+    Link to = "mygallery"
+    id = "navitem"
+    smooth = { true }
+    duration = { 1500 } > Service < /Link> <
+    Link to = "myprojects"
+    id = "navitem"
+    smooth = { true }
+    duration = { 1500 } > Work < /Link> <
+    Link to = "contactme"
+    id = "navitem"
+    smooth = { true }
+    duration = { 1500 } > Contact < /Link> <
+    /Nav>
+
+    <
+    /Navbar.Collapse>
+
+
+    <
+    /Navbar> <
+    /div>
+);

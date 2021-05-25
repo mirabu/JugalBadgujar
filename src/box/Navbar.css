@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+#logo {
+    color: rgb(255, 255, 255);
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(42, 82, 49);
+    padding: 5px;
+    font-family: 'Righteous', cursive;
+    border-radius: 2px;
+    transition: 0.6s;
+}
+
+#navitem {
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+}
+
+#navitem:hover {
+    background-color: rgb(255, 201, 25);
+}
+
+#navbarvilla {
+    background-color: aquamarine;
+    position: sticky;
+    top: 0;
+}
+
+#divmainnav {
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    position: fixed;
+    background-color: white;
+}
