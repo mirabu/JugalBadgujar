@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/css/main.9128d23d.chunk.css",
+    "main.js": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/js/main.0521887e.chunk.js",
+    "main.js.map": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/js/main.0521887e.chunk.js.map",
+    "runtime-main.js": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/js/runtime-main.1ffaa223.js",
+    "runtime-main.js.map": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/js/runtime-main.1ffaa223.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.edffecc5.chunk.js": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/js/2.edffecc5.chunk.js",
+    "static/js/2.edffecc5.chunk.js.map": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/js/2.edffecc5.chunk.js.map",
+    "static/js/3.ae1f69c0.chunk.js": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/js/3.ae1f69c0.chunk.js",
+    "static/js/3.ae1f69c0.chunk.js.map": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/js/3.ae1f69c0.chunk.js.map",
+    "index.html": "/mirabu/JugalBadgujar.git/JugalBadgujar/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9128d23d.chunk.css.map": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/css/main.9128d23d.chunk.css.map",
+    "static/js/2.edffecc5.chunk.js.LICENSE.txt": "/mirabu/JugalBadgujar.git/JugalBadgujar/static/js/2.edffecc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ffaa223.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.edffecc5.chunk.js",
+    "static/css/main.9128d23d.chunk.css",
+    "static/js/main.0521887e.chunk.js"
+  ]
+}
